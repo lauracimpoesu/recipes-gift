@@ -14,3 +14,15 @@ body {
        left: 70px;
        font-size: 60px;
 }
+
+@media only screen and (max-width: 767px) {
+
+.enjoy {
+       position: relative;
+       top: 60px;
+       left: 70px;
+       font-size: 45pxx;
+       padding-bottom: 60px;
+
+}
+}
