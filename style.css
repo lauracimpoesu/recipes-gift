@@ -1,0 +1,16 @@
+.laura {
+       margin: 0 auto;
+       padding: 30px;
+       padding-left: 40px;
+}
+
+body {
+       position: relative;
+}
+
+.enjoy {
+       position: relative;
+       top: -300px;
+       left: 70px;
+       font-size: 60px;
+}
